@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+  background: #345678;
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway"
+}
+
+.top {
+  background: #FFD721;
+  color: #FFF;
+  margin: 3em;
+  padding: 4em;
+}
+
+img {
+  width: 50%;
+  margin: 0 3em 3em 3em;
+}
