@@ -3,6 +3,7 @@
 body {
   background: #345678;
   margin: 0;
+  margin-left: 25em;
   padding: 0;
   font-family: "Raleway"
 }
@@ -10,11 +11,20 @@ body {
 .top {
   background: #FFD721;
   color: #FFF;
-  margin: 3em;
+  margin-left: 25em;
+  margin-top: 15em;
   padding: 4em;
+  max-width: 50%;
+  display: inline-block;
+}
+
+.top h1 {
+  font-size: 3em;
+  text-transform: lowercase;
 }
 
 img {
   width: 50%;
-  margin: 0 3em 3em 3em;
+  margin-left: 5em;
+  display: inline-block;
 }
